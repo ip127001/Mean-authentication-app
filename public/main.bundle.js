@@ -634,7 +634,7 @@ module.exports = "<app-navbar></app-navbar>\n<div class=\"container\">\n  <flash
 /***/ 687:
 /***/ (function(module, exports) {
 
-module.exports = "<h2 class=\"page-header\">Dashboard</h2>\n<p>welcome to your auth dashboard</p>"
+module.exports = "<h2 class=\"page-header\">Dashboard</h2>\n<p>welcome to your dashboard</p>"
 
 /***/ }),
 
